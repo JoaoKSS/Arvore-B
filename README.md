@@ -15,4 +15,4 @@ Esta implementação contém uma estrutura de Árvore B, uma árvore balanceada 
 Para testar a implementação, execute o arquivo `Btree.py` utilizando o Python:
     
 ```sh
-python [Btree.py](http://_vscodecontentref_/0)
+python3 Btree.py
